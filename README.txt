@@ -5,21 +5,20 @@ EXAMPLE:
 吾有一數。曰十。名之曰「次」。
 有數零。名之曰「拾」。
 有數零。名之曰「計算」。
-	為是「次」遍。
-		加「拾」以一。名之曰「拾」。
-		加「計算」以「拾」。名之曰「計算」。
-	云云。
+   為是「次」遍。
+     加「拾」以一。名之曰「拾」。
+     加「計算」以「拾」。名之曰「計算」。
+   云云。
 吾有一言。曰「計算」。書之。
   
 TRANSLATION: 
 I have one number. The number 10. It is called "Times".
 There is the number 0, called "Ten".
 There is the number 0, called "Calculate".
-	For "Times" times:
-    		Increment "Ten" by 1. Call it "Ten".
-    		Increment "Calculate" by "Ten". Call it "Ten".
-  	And so on.
+   For "Times" times:
+      Increment "Ten" by 1. Call it "Ten".
+      Increment "Calculate" by "Ten". Call it "Ten".
+   And so on.
 I have one utterance. It is said "Calculate". Write it. 
 
-TEST: 
-	https://ide.wy-lang.org/
+TEST: https://ide.wy-lang.org/
