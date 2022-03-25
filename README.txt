@@ -15,8 +15,11 @@ TRANSLATION:
 I have one number. The number 10. It is called "Times".
 There is the number 0, called "Ten".
 There is the number 0, called "Calculate".
-  For "Times" times:
-    Increment "Ten" by 1. Call it "Ten".
-    Increment "Calculate" by "Ten". Call it "Ten".
-  And so on.
+	For "Times" times:
+    		Increment "Ten" by 1. Call it "Ten".
+    		Increment "Calculate" by "Ten". Call it "Ten".
+  	And so on.
 I have one utterance. It is said "Calculate". Write it. 
+
+TEST: 
+	https://ide.wy-lang.org/
