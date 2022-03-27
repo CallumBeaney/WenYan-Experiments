@@ -3,7 +3,9 @@ ABOUT THIS PROGRAM:________________________________
 This program converts a Metric measurement to that of the ShiZhi 市制 Market System according to regulations circa 1915.
 To change the calculation, adjust 施「計算」於_____。 at the very end of the program.
 
-This program was particularly challenging to write as at time of writing (27/03/2022) the WenYan 文言 programming language had no division operation and only a “while(true)” variety while function. This meant that e.g. finding how many times X fits into Y had to be done using a less intuitive operation.
+This program was particularly challenging to write as at time of writing (27/03/2022) the WenYan 文言 programming language had limited functions.
+This included having no division operation and only a “while(true)” variety while function. 
+This meant that e.g. finding how many times X fits into Y had to be done using a less intuitive operation.
 
 Read more about WenYan here: 				https://wy-lang.org
 Try compiling here (recommended compile to JS): 	https://ide.wy-lang.org
@@ -146,3 +148,4 @@ PROGRAM STARTS_____________________________________
 
 	注曰「「欲改此術該調以下數。」」。
 	施「計算」於一百六十九。
+
