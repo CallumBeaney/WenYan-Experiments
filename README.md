@@ -24,6 +24,6 @@ There is the number 0, called "Calculate".
    And so on.
 I have one utterance. It is said "Calculate". Write it.
 ```
-### A book render of my [Metric To Market System](https://github.com/CallumBeaney/WenYan-Experiments/blob/adf56dce9460f203b12a80fcc80e48bb7c3e1a92/METRIC_TO_SHIZHI_CONVERTER.txt) program:
+### A book render of my [Metric To Market System](https://github.com/CallumBeaney/WenYan-Experiments/blob/main/02.%20Metric%20to%20ShiZhi%20Converter.md) program:
 
 ![](.wy_FILES/converter1.png)
